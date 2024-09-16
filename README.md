@@ -13,12 +13,8 @@ This is to show a basic understanding of a print statement for python and showw 
 * Python
 * Git/ Github
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
-
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [VS Code and Github](https://code.visualstudio.com/docs/sourcecontrol/overview)
+* [Python Ref Manual 3.11](https://docs.python.org/3.11/reference/index.html)
