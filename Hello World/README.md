@@ -6,7 +6,7 @@ This is to show a basic understanding of a print statement for python and showw 
 
 Demo of my program in the link
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/J_d2jo04q7I)
 
 # Development Environment
 * Visual Studio Code
@@ -15,8 +15,6 @@ Demo of my program in the link
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [VS Code and Github](https://code.visualstudio.com/docs/sourcecontrol/overview)
 * [Python Ref Manual 3.11](https://docs.python.org/3.11/reference/index.html)
 * [Deleting files from github](https://docs.github.com/en/repositories/working-with-files/managing-files/deleting-files-in-a-repository)
-* []
