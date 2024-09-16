@@ -18,3 +18,4 @@ This is to show a basic understanding of a print statement for python and showw 
 {Make a list of websites that you found helpful in this project}
 * [VS Code and Github](https://code.visualstudio.com/docs/sourcecontrol/overview)
 * [Python Ref Manual 3.11](https://docs.python.org/3.11/reference/index.html)
+* [Deleting files from github](https://docs.github.com/en/repositories/working-with-files/managing-files/deleting-files-in-a-repository)
