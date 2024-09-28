@@ -1,4 +1,5 @@
 
+import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class Game{
@@ -6,8 +7,9 @@ public class Game{
         System.out.println("The Story of Dan");
         Reader.start();
     }
-    public void story(String choice){
+    public void story(String choice) throws FileNotFoundException{
         Scanner sc = new Scanner(System.in);
         choice = sc.nextLine();
+        Reader.start();
     }
   }

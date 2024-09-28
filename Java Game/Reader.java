@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Reader {
     public static void start() throws FileNotFoundException{
-        String number = "A";
+        String number;
         String D = System.getProperty("user.dir");
         File file = new File(D + "//Game Story//story.txt");
         Game reader = new Game();
