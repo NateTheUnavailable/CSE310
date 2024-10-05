@@ -19,7 +19,7 @@ public class Game{
         System.out.print("\033[H\033[2J");
         //First Choice
         if ("A".equals(choice)||"a".equals(choice)) {
-            reader = new FileReader(D + "/GameStory/A.txt");
+            reader = new FileReader(D + "/Java Game/GameStory/A.txt");
             data = reader.read();
             while(data != -1) {
                 System.out.print((char)data);
@@ -30,7 +30,7 @@ public class Game{
             System.out.print("\033[H\033[2J");
             //Seccond Choice
             if ("C".equals(choice)||"c".equals(choice)) {
-                reader = new FileReader(D + "/GameStory/C.txt");
+                reader = new FileReader(D + "/Java Game/GameStory/C.txt");
                 data = reader.read();
                 while(data != -1) {
                     System.out.print((char)data);
@@ -40,7 +40,7 @@ public class Game{
                 choice = "Friends";
             }
             if ("D".equals(choice)||"d".equals(choice)) {
-                reader = new FileReader(D + "/GameStory/D.txt");
+                reader = new FileReader(D + "/Java Game/GameStory/D.txt");
                 data = reader.read();
                 while(data != -1) {
                     System.out.print((char)data);
@@ -50,7 +50,7 @@ public class Game{
                 choice = "Friends";
             }
             if ("Friends".equals(choice)) {
-                reader = new FileReader(D + "/GameStory/Friends.txt");
+                reader = new FileReader(D + "/Java Game/GameStory/Friends.txt");
                 data = reader.read();
                 while(data != -1) {
                     System.out.print((char)data);
@@ -61,7 +61,7 @@ public class Game{
                 System.out.print("\033[H\033[2J");
             }
             if ("E".equals(choice)||"e".equals(choice)) {
-                reader = new FileReader(D + "/GameStory/E.txt");
+                reader = new FileReader(D + "/Java Game/GameStory/E.txt");
                 data = reader.read();
                 while(data != -1) {
                     System.out.print((char)data);
@@ -73,7 +73,7 @@ public class Game{
                 //Third Choice
             }
             if ("F".equals(choice)||"f".equals(choice)) {
-                reader = new FileReader(D + "/GameStory/F.txt");
+                reader = new FileReader(D + "/Java Game/GameStory/F.txt");
                 data = reader.read();
                 while(data != -1) {
                     System.out.print((char)data);
@@ -84,7 +84,7 @@ public class Game{
                 System.out.print("\033[H\033[2J");
             }
             if ("G".equals(choice)||"g".equals(choice)) {
-                reader = new FileReader(D + "/GameStory/G.txt");
+                reader = new FileReader(D + "/Java Game/GameStory/G.txt");
                 data = reader.read();
                 while(data != -1) {
                     System.out.print((char)data);
@@ -95,7 +95,7 @@ public class Game{
                 System.out.print("\033[H\033[2J");
             }
             if ("H".equals(choice)||"h".equals(choice)) {
-                reader = new FileReader(D + "/GameStory/H.txt");
+                reader = new FileReader(D + "/Java Game/GameStory/H.txt");
                 data = reader.read();
                 while(data != -1) {
                     System.out.print((char)data);
@@ -106,7 +106,7 @@ public class Game{
                 System.out.print("\033[H\033[2J");
             }
             if ("I".equals(choice)||"i".equals(choice)) {
-                reader = new FileReader(D + "/GameStory/I.txt");
+                reader = new FileReader(D + "/Java Game/GameStory/I.txt");
                 data = reader.read();
                 while(data != -1) {
                     System.out.print((char)data);
@@ -118,7 +118,7 @@ public class Game{
                 //Third Choice
             }
             if ("J".equals(choice)||"j".equals(choice)) {
-                reader = new FileReader(D + "/GameStory/J.txt");
+                reader = new FileReader(D + "/Java Game/GameStory/J.txt");
                 data = reader.read();
                 while(data != -1) {
                     System.out.print((char)data);
@@ -129,7 +129,7 @@ public class Game{
                 System.out.print("\033[H\033[2J");
             }
             if ("K".equals(choice)||"k".equals(choice)) {
-                reader = new FileReader(D + "/GameStory/K.txt");
+                reader = new FileReader(D + "/Java Game/GameStory/K.txt");
                 data = reader.read();
                 while(data != -1) {
                     System.out.print((char)data);
@@ -139,7 +139,7 @@ public class Game{
                 //Third Choice
             }
             if ("L".equals(choice)||"l".equals(choice)) {
-                reader = new FileReader(D + "/GameStory/L.txt");
+                reader = new FileReader(D + "/Java Game/GameStory/L.txt");
                 data = reader.read();
                 while(data != -1) {
                     System.out.print((char)data);
@@ -149,7 +149,7 @@ public class Game{
             }
         }
         else if ("B".equals(choice)||"b".equals(choice)) {
-            reader = new FileReader(D + "/GameStory/B.txt");
+            reader = new FileReader(D + "/Java Game/GameStory/B.txt");
             data = reader.read();
             while(data != -1) {
                 System.out.print((char)data);
