@@ -21,3 +21,4 @@ Demo of my program in the link
 * [Is it possible to clear the console during execution in a Java workspace?](https://teamtreehouse.com/community/is-it-possible-to-clear-the-console-during-execution-in-a-java-workspace#:~:text=You%20can%20achieve%20a%20clear,H%5C033%5B2J")%3B)
 * [&& (AND) and || (OR) in IF statements](https://stackoverflow.com/questions/1795808/and-and-or-in-if-statements)
 * [How to get the current working directory in Java](https://mkyong.com/java/how-to-get-the-current-working-directory-in-java/#:~:text=In%20Java%2C%20we%20can%20use,where%20your%20program%20was%20launched.)
+* [The House on Maple Hill](https://chooseyourstory.com/story/the-house-on-maple-hill)
