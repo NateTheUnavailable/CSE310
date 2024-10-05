@@ -8,7 +8,7 @@ public class Game{
         Scanner option = new Scanner(System.in);
         System.out.println("The Story of Dan");
         String D = System.getProperty("user.dir");
-        FileReader reader = new FileReader(D + "/GameStory/story.txt");
+        FileReader reader = new FileReader(D + "/Java Game/GameStory/story.txt");
         int data = reader.read();
         while(data != -1) {
             System.out.print((char)data);
