@@ -6,7 +6,7 @@ This is to showcase how to use a pring statement, how to use if statements, and 
 
 Demo of my program in the link
 
-[Software Demo Video](https://youtu.be/J_d2jo04q7I)
+[Software Demo Video](https://youtu.be/d_TFsvsQiHI)
 
 # Development Environment
 * Visual Studio Code
